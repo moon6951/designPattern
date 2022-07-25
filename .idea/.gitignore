@@ -3,6 +3,9 @@ target/
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**
 !**/src/test/**
+*.iml
+vcs.xml
+workspace.xml
 
 ### STS ###
 .apt_generated
